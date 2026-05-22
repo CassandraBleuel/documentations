@@ -18,23 +18,17 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 
-# DIA Documentation
-
 ## Welkom
 
 Deze documentatie beschrijft:
 
-- SIM
-- FHIR mappings
-- Art-Decor
-- ETL processen
-- Architectuur
-- Governance
+
+
 
 ## Architectuur
 
 De documentatie is gebaseerd op:
 - Markdown
 - MkDocs
-- Azure hosting
+- Azure hosting/Git Pages
 - Git versioning

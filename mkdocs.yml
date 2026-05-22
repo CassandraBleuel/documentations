@@ -1,8 +1,9 @@
-site_name: DIA Documentation
+site_name: Documentation
 
 theme:
   name: material
 
 nav:
   - Home: index.md
-  - SIM: sim.md
+  - Tab: tab.md
+  - Compleete: complete.md
